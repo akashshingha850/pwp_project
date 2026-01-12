@@ -4,10 +4,9 @@
 
 # Group information
 
-* Student 1. Name and email
-* Student 2. Name and email
-* Student 3. Name and email
-* Student 4. Name and email
+* 1. Akash Bappy (akash.bappy@oulu.fi)
+* 2. Taufiq Ahmed (taufiq.ahmed@oulu.fi)
+* 3. Mesbahul Islam (mesbahul.islam@student.oulu.fi)
 
 # Project Overview
 
