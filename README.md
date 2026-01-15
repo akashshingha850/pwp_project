@@ -4,9 +4,9 @@
 
 # Group information
 
-* 1. Akash Bappy (akash.bappy@oulu.fi)
-* 2. Taufiq Ahmed (taufiq.ahmed@oulu.fi)
-* 3. Mesbahul Islam (mesbahul.islam@student.oulu.fi)
+1. Akash Bappy (akash.bappy@oulu.fi)
+2. Taufiq Ahmed (taufiq.ahmed@oulu.fi)
+3. Mesbahul Islam (mesbahul.islam@student.oulu.fi)
 
 # Project Overview
 
